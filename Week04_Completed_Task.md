@@ -20,13 +20,11 @@ MD Azzad Ali (S20250022).
 
 # 1. Introduction
 
-Artificial Intelligence (AI) is increasingly being used in education to support personalised and adaptive learning. AI-powered e-learning platforms can analyse learner information, performance and behaviour to recommend learning materials, adjust learning pathways and provide personalised feedback.
+Artificial Intelligence (AI) is increasingly being incorporated into education and e-learning platforms to provide personalized learning experiences. The ability of an AI powered system to study the way a learner performs and behaves enables it to suggest appropriate learning materials, modify learning routes based upon a learner’s progress and make recommendations based upon the specific knowledge a learner has demonstrated. 
 
-Traditional e-learning platforms generally provide the same content to all learners, whereas adaptive learning systems can modify content and learning activities according to individual learner needs. Machine learning, learner modelling and intelligent tutoring systems are examples of technologies that can support this process.
+Using Adaptive Learning Algorithms, e-learning platforms are able to adapt the material presented to each learner as opposed to all learners receiving the same information. Techniques such as Intelligent Tutoring Systems and Machine Learning can be used to tailor both the content provided to a learner and the path they follow to reach their goal. 
 
-Previous research indicates that intelligent tutoring and adaptive learning systems can improve learning outcomes and student engagement. However, their effectiveness depends on factors such as system design, implementation, learner characteristics, teacher involvement and the quality of available data.
-
-Therefore, this literature review examines existing research on AI-powered e-learning platforms, personalised education, adaptive learning algorithms and tailored content delivery. It aims to determine how effective these technologies are and identify the major limitations and research gaps.
+Research studies have indicated that AI-based adaptive and intelligent tutoring systems may enhance learner achievement and motivation. There is, however, potential for these systems to vary in terms of algorithmic design, implementation, learner demographics, level of teacher input, quality of data, and overall educational setting. Therefore, this literature review will investigate the effect of using AI-powered e-learning platforms to create customised education through the use of Adaptive Learning Algorithms and tailored educational content.
 
 ---
 
