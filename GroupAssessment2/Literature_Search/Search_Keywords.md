@@ -1,4 +1,4 @@
-## 3.3 Keywords
+##  Keywords
 
 The main keywords used for the literature search include:
 
