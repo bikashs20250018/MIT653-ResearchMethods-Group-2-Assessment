@@ -60,13 +60,36 @@ However, the literature also indicates that positive outcomes are not consistent
 ---
 
 ## 4. Methodological Findings
+The reviewed literature generally indicates that AI and adaptive learning technologies can support personalised educational experiences.
 
+The main potential benefits identified across the literature include:
+
+- Improved student engagement.
+- Increased motivation.
+- Improved learner satisfaction.
+- Improved academic performance in some contexts.
+- Personalised learning pathways.
+- Adaptive content delivery.
+- Adaptive assessment.
+- Real-time feedback.
+- Identification of individual learning needs.
+
+However, the literature also indicates that positive outcomes are not consistent across all learners, platforms and educational contexts.
 
 ---
 
 ## 5. Common Research Gaps
+The literature reviewed includes different research methodologies, including:
 
+- Quantitative surveys.
+- Cross-sectional studies.
+- Literature reviews.
+- Systematic reviews.
+- Scoping reviews.
+- Mixed-methods research.
+- Thematic analysis.
 
+The group compared these methodologies to understand the strength and limitations of the evidence.
 
 ---
 
