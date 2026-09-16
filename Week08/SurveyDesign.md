@@ -151,11 +151,36 @@ The closed-ended questions will primarily use predefined response options and Li
  
 ## Question 3 – Effectiveness of Adaptive Learning 
  
+*How effective do you think adaptive learning features are in helping you learn at your own level and pace?*
+
+- Very ineffective
+- Ineffective
+- Neutral
+- Effective
+- Very effective
+
+*Question type:* Closed-ended
+
+*Purpose:* To examine students' perceptions of the effectiveness of adaptive learning.
 
 --- 
  
 ## Question 4 – Personalised Recommendations 
  
+*To what extent do personalised recommendations help you identify learning materials that are relevant to your needs?*
+
+- Not at all
+- To a small extent
+- To a moderate extent
+- To a large extent
+- To a very large extent
+
+*Question type:* Closed-ended
+
+*Purpose:* To evaluate the usefulness of AI-driven content recommendations.
+
+
+
 
 --- 
  
