@@ -194,15 +194,31 @@ The closed-ended questions will primarily use predefined response options and Li
 
 --- 
  
-## Question 7 – Overall Satisfaction 
- 
+## Question 7 – Overall Satisfaction
 
---- 
- 
-## Question 8 – Open-Ended Feedback 
- 
+*Overall, how satisfied are you with the personalised learning experience provided by the e-learning platforms you have used?*
 
---- 
+- Very dissatisfied
+- Dissatisfied
+- Neutral
+- Satisfied
+- Very satisfied
+
+*Question type:* Closed-ended
+
+*Purpose:* To measure overall student satisfaction with personalised e-learning.
+
+---
+
+## Question 8 – Open-Ended Feedback
+
+*What improvements or changes would you suggest to make AI-powered personalised e-learning platforms more effective for students?*
+
+*Question type:* Open-ended
+
+*Purpose:* To allow participants to provide detailed feedback, identify problems that may not be captured by the closed-ended questions and suggest improvements.
+
+---
  
 # 5. Ethical Considerations 
  
