@@ -524,7 +524,25 @@ When the approved retention period has ended, data will be securely deleted or d
 ---
 
 # 10. Ethical Approval (RAMPUKAR SHAH TELI)
+No main participant recruitment or main data collection will begin before the required ethics approval has been obtained.
 
+The research team will comply with the requirements of the relevant institutional ethics/review process.
+
+Any changes to the approved research methodology, recruitment process, consent process, data collection, or data management arrangements will be considered in accordance with institutional ethics requirements before implementation.
+
+The ethics application covers:
+
+- Research purpose
+- Research population
+- Participant recruitment
+- Consent process
+- Data collection
+- Data analysis
+- Privacy and confidentiality
+- Data storage and security
+- Potential risks
+- Participant safeguards
+- Data retention and disposal
 
 
 ---
@@ -702,7 +720,7 @@ This ethics application has been prepared collaboratively by all members of Grou
 | Bikash Shrestha | S20250018 | Project information, objectives, research questions, methodology and data analysis | Confirmed |
 | Sushant Shrestha | S20250017 | Target population, sampling, recruitment and data collection | To be confirmed |
 | Md Azzad Ali | S20250022 | Informed consent, voluntary participation, risks and benefits | Confirmed |
-| Rampukar Shaha Teli | S20250009 | Privacy, confidentiality, AI-specific ethics and data management |To be confirmed |
+| Rampukar Shaha Teli | S20250009 | Privacy, confidentiality, AI-specific ethics and data management | confirmed |
 
 ### Group Declaration
 
