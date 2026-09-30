@@ -448,17 +448,25 @@ The study will not collect participants' personal learning-platform data unless 
 ---
 
 ## 7.2 Algorithmic Bias and Fairness (RAMPUKAR SHAH TELI)
+The study will consider students' perceptions of potential algorithmic bias and fairness in AI-generated recommendations.
 
+Participants will be able to express concerns about whether personalized recommendations or adaptive systems may produce different experiences for different learners.
+
+The research will report participant perceptions without assuming that a particular AI system is biased unless supported by the collected evidence and appropriate analysis.
 
 ---
 
 ## 7.3 Accessibility and Unequal Access (RAMPUKAR SHAH TELI)
+The research will consider accessibility and technology availability as potential factors affecting students' experiences with personalized e-learning.
 
+The questionnaire may ask participants about access to appropriate devices, internet connectivity, and educational technologies where relevant to the approved research objectives.
 
 ---
 
 ## 7.4 Dependence on AI (RAMPUKAR SHAH TELI)
+The research will explore students' perceptions of dependence on AI-supported learning systems.
 
+Questions will consider whether students perceive AI as a support for learning or whether they have concerns about excessive reliance on automated systems.
 
 ---
 
