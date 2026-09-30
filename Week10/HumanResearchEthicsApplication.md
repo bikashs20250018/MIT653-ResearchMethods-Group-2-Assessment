@@ -470,30 +470,51 @@ Questions will consider whether students perceive AI as a support for learning o
 
 ---
 
-# 8. Data Management (RAMPUKAR SHAH TELI)
+# 8. Data Management 
 
 ## 8.1 Data Storage (RAMPUKAR SHAH TELI)
+Research data will be stored securely using password-protected storage.
 
+Access will be restricted to authorised members of the research team.
+
+Where appropriate, data will be anonymised or de-identified before analysis and reporting
 
 ---
 
 ## 8.2 Data Security (RAMPUKAR SHAH TELI)
+The research team will take reasonable measures to protect collected data.
 
+These measures include:
+
+- Password protection
+- Restricted access
+- Secure storage
+- Avoiding unnecessary personal information
+- Separating identifying information from research responses where necessary
+- Limiting access to authorised research team members
+
+Data will not be shared with unauthorised individuals.
 
 ---
 
 ## 8.3 Data Access (RAMPUKAR SHAH TELI)
+Only authorised members of the research team will have access to the research data required for the project.
 
+The data will be accessed only for purposes related to the approved research project.
 
 ---
 
 ## 8.4 Data Use (RAMPUKAR SHAH TELI)
+Survey and interview responses will only be used for the approved research project.
 
+The research data will not be used for unrelated research projects without appropriate approval and, where required, additional participant consent.
 
 ---
 
 ## 8.5 Data Retention and Disposal (RAMPUKAR SHAH TELI)
+Research data will be retained and securely disposed of according to applicable institutional policies and ethics requirements.
 
+When the approved retention period has ended, data will be securely deleted or disposed of using appropriate procedures.
 
 ---
 
