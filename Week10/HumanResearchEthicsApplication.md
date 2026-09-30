@@ -352,15 +352,37 @@ The combined findings will be used to address the primary research question and 
 # 6. Ethical Considerations 
 
 ## 6.1 Informed Consent (MD AZZAD ALI)
+Participants will receive clear information about the research before participation.
 
+The participant information will explain:
 
+- The purpose of the research
+- What participation involves
+- The expected time commitment
+- How the collected information will be used
+- The voluntary nature of participation
+- Participant rights
+- Privacy and confidentiality arrangements
+- Contact information for the research team
 
----
+Participants will provide informed consent before taking part.
+
+For an online survey, the consent process will be presented before the questionnaire begins. Participants will only proceed after confirming that they understand the information and agree to participate.
+
+If interviews are conducted, participants will provide appropriate consent before the interview.
 
 ## 6.2 Voluntary Participation (MD AZZAD ALI)
 
 
----
+Participation will be entirely voluntary.
+
+Participants will not be coerced, pressured, or required to participate.
+
+Participants may decline to answer questions they do not wish to answer.
+
+Participation or refusal will not result in academic or other penalties.
+
+Where withdrawal is possible under the approved study procedures, participants will be informed about how they can withdraw and any applicable limitations relating to withdrawal after anonymisation or aggregation of data.
 
 ## 6.3 Privacy and Confidentiality (RAMPUKAR SHAH TELI)
 he research team will avoid collecting unnecessary personally identifiable information.
@@ -377,13 +399,26 @@ Individual participants will not be identified in reports, presentations, or pub
 
 ## 6.4 Potential Risks (MD AZZAD ALI)
 
+The study is expected to involve minimal risk.
 
----
+Possible discomfort may arise when participants consider topics such as:
+
+- Privacy of educational data
+- Security of personal learning information
+- Algorithmic bias
+- Fairness
+- Accessibility
+- Dependence on AI
+- Experiences with educational technology
+
+Participants will not be required to answer questions that they do not wish to answer.
+
+Participants may stop participating according to the approved withdrawal process.
+
+There will be no academic penalty for refusing to participate or withdrawing from the research.
 
 ## 6.5 Potential Benefits (MD AZZAD ALI)
 
-
----
 
 # 7. AI-Specific Ethical Considerations (RAMPUKAR SHAH TELI)
 Because the research focuses on AI-supported education, specific ethical issues will be considered.
