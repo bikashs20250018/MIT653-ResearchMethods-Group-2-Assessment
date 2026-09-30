@@ -363,7 +363,15 @@ The combined findings will be used to address the primary research question and 
 ---
 
 ## 6.3 Privacy and Confidentiality (RAMPUKAR SHAH TELI)
+he research team will avoid collecting unnecessary personally identifiable information.
 
+The survey will not request information such as a participant's name unless it is specifically required, justified, approved, and separately managed.
+
+Where participant contact information is required for an interview or other approved research activity, it will be separated from research responses wherever practicable.
+
+Research results will be reported in aggregate form.
+
+Individual participants will not be identified in reports, presentations, or publications unless explicit consent and ethical approval allow otherwise
 
 ---
 
@@ -378,10 +386,14 @@ The combined findings will be used to address the primary research question and 
 ---
 
 # 7. AI-Specific Ethical Considerations (RAMPUKAR SHAH TELI)
-
+Because the research focuses on AI-supported education, specific ethical issues will be considered.
 
 ## 7.1 Privacy and Personal Learning Data (RAMPUKAR SHAH TELI)
+AI-powered learning platforms may process learner information such as performance, interactions, learning progress, and other learning-related information.
 
+The research will therefore investigate students' perceptions of privacy and security without requiring unnecessary access to their private platform records.
+
+The study will not collect participants' personal learning-platform data unless specifically approved and necessary for the research.
 
 ---
 
