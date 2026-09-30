@@ -613,8 +613,7 @@ Primary contribution:
 - Voluntary Participation
 - Potential Risks
 - Potential Benefits
-- Participant Rights
-- Research Participant Safeguards
+
 
 ## Rampukar Shaha Teli – S20250009
 
