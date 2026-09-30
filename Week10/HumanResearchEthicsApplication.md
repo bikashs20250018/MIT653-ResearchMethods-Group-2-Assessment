@@ -674,7 +674,7 @@ This ethics application has been prepared collaboratively by all members of Grou
 | Bikash Shrestha | S20250018 | Project information, objectives, research questions, methodology and data analysis | Confirmed |
 | Sushant Shrestha | S20250017 | Target population, sampling, recruitment and data collection | To be confirmed |
 | Md Azzad Ali | S20250022 | Informed consent, voluntary participation, risks and benefits | Confirmed |
-| Rampukar Shaha Teli | S20250009 | Privacy, confidentiality, AI-specific ethics and data management | lado |
+| Rampukar Shaha Teli | S20250009 | Privacy, confidentiality, AI-specific ethics and data management |To be confirmed |
 
 ### Group Declaration
 
