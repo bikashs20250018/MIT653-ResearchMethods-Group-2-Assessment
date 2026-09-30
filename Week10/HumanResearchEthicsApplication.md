@@ -419,6 +419,21 @@ There will be no academic penalty for refusing to participate or withdrawing fro
 
 ## 6.5 Potential Benefits (MD AZZAD ALI)
 
+Participants may not receive a direct personal benefit from participation.
+
+However, participation may provide students with an opportunity to reflect on their experiences with AI-supported e-learning and personalized learning.
+
+At a broader level, the research may contribute to understanding:
+
+- How students experience AI personalization
+- Factors associated with engagement, motivation, and satisfaction
+- Perceived learning effectiveness
+- Student concerns about privacy and security
+- Fairness and algorithmic bias
+- Accessibility issues
+- Responsible implementation of AI-based personalized learning
+
+These are potential contributions rather than guaranteed outcomes.
 
 # 7. AI-Specific Ethical Considerations (RAMPUKAR SHAH TELI)
 Because the research focuses on AI-supported education, specific ethical issues will be considered.
