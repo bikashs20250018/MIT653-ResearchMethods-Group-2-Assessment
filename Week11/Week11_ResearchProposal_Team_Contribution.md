@@ -306,18 +306,84 @@ The purpose of the initial survey is to identify **trends and issues** rather th
 
 ## 3.1 Research Methodology
 
+A mixed method design will be used in the proposed study. Relationships
+between AI personalisation, engagement, motivation, satisfaction, and
+learning effectiveness will be quantitatively demonstrated by the data
+\[22\]. The qualitative data will provide more in-depth information on
+students' experiences and concerns \[23\].
 
+Since efficacy can be quantified and takes into account individual
+perspectives, the mixed methods approach is suitable.
 
 ## 3.2 Conceptual Structure
+As anticipated, the conceptual framework defines the connections between
+the educational outcomes examined in this study and AI-enabled
+personalisation. This paradigm is based on the idea that students'
+learning journeys may be shaped by using AI to personalise learning
+materials and assistance in accordance with their requirements.
 
+The study's independent variable is AI-powered personalised learning.
 
+Four primary dimensions will be used to depict it:
 
+-   **Personalised content distribution** refers to the provision of
+    educational materials and information that are pertinent to each
+    student's unique learning requirements, preferences, and
+    performance.
+-   **Adaptive learning algorithms** are algorithms that modify learning
+    activities, material complexity, and learning pathways in response
+    to student engagement and performance.
+-   **Adaptive assessment** is the process of changing an assessment
+    task or set of questions based on students' prior responses and
+    identified assessment needs.
+-   **AI-Generated Personalised Feedback** is automatic feedback that
+    may be used to point out mistakes, clarify ideas, and suggest areas
+    for development.
+
+Four major dependent educational outcomes are thought to be associated
+with the dimensions:
+
+-   **Student engagement:** Student involvement, focus, interest, and
+    readiness to participate in educational activities are all
+    considered aspects of student engagement.
+-   **Student motivation:** The eagerness and desire of students to
+    continue studying and actively engage in educational activities is
+    known as student motivation.
+-   **Student satisfaction:** Students' perceptions of the value,
+    applicability, and general experience of AI-supported learning are
+    known as student satisfaction.
+-   **Perceived learning effectiveness:** Students' perceptions of
+    improvements in comprehension, information retention, weakness
+    detection, and learning performance are known as perceived learning
+    effectiveness.
+
+Furthermore, the approach acknowledges ethical and cultural factors that
+may influence students' usage of AI personalisation. These include
+reliance on AI, algorithmic fairness, privacy, and accessibility. These
+elements will be examined as important contextual elements that may
+affect students' acceptance, trust, and opinions of AI-supported
+personalised learning rather than being directly included in the study's
+quantitative model.
 **Conceptual framework note:** 
 
 
 ## 3.3 Sampling and Population
 
+The study's conceptual framework uses
+arrows to indicate potential correlations rather than established causal
+effects.
 
+Students that are accustomed to using online learning systems will
+participate. Based on recruiting and availability, a sizable, yet
+manageable sample of around 100--200 students is recommended.
+
+Purposive or convenience sampling may be required since participants
+must have relevant expertise with online learning. Depending on
+availability and ethical permission, ten to fifteen persons could be
+requested to participate (if interviews are to take place).
+
+In the end, recruiting and institutional criteria will determine the
+sample size.
 
 ------------------------------------------------------------------------
 
