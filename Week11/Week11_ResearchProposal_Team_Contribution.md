@@ -323,31 +323,129 @@ The purpose of the initial survey is to identify **trends and issues** rather th
 
 # 4. Data Analysis and Expected Results
 
-**Contributor:** Rampukar Shaha Teli (S20250009)
-
 ## 4.1 Analysis of Survey Data
+The preliminary survey results will be analysed using both descriptive
+and inferential approaches.
 
+For category and demographic data, percentages and frequencies will be
+employed. Means and standard deviations will be used to summarise Likert
+scale constructs when applicable \[19\].
+
+Cronbach's alpha will be used to assess the internal consistency of
+multi-item scales. If the presumptions are satisfied, a Pearson
+correlation will be employed to ascertain correlations between variables
+\[20\].
+
+Multiple regression may be used to account for other pertinent factors
+in order to investigate the link between AI personalisation and
+engagement, motivation, satisfaction, and perceived learning efficacy in
+the primary research \[21\].
+
+Open-ended replies will be examined using thematic analysis. Themes of
+convenience, relevance, enhanced comprehension, privacy, prejudice, and
+dependency will be used to group responses.
+
+There will be no fictitious numerical preliminary findings in this
+proposal. To reflect real frequencies, means and standard deviations,
+and connections, only authentic survey results will be utilised.
 
 
 ### Proposed Preliminary Analysis
 
+The purpose of the preliminary survey is to evaluate participants'
+comprehension of the suggested constructs and to ascertain if the
+questionnaire addresses the pertinent aspects of AI-supported learning.
 
+For example, the quality of feedback may be given priority in the
+primary research if students consistently consider personalised feedback
+to be significant. If privacy becomes a major concern, the
+privacy-related questions might be increased.
+
+Before the primary data collection, the survey will also be used to
+pre-pilot questions that might create problems and improve the
+instrument's dependability.
 
 
 ## 4.2 Information Gathering
 
+Data will be gathered in phases.
 
+-   The purpose of the first survey is to test the questionnaire and
+    identify relevant concerns.
+-   Second, the primary sample of participants will get the updated
+    questionnaire.
+-   Third, open-ended survey questions and, upon request,
+    semi-structured interviews will be used to collect qualitative data.
+
+When suitable from an ethical and practical standpoint, objective
+academic markers may be considered. However, only when participants
+provide the necessary consent and the research ethics approval is
+granted will this kind of data be collected.
+
+The study will focus on students' experiences and impressions rather
+than claiming that artificial intelligence improves academic
+achievement.
 
 ## 4.3 Analysis of Data
 
+The following techniques will be used in a quantitative approach:
+
+-   Data screening and cleaning.
+-   Identifying incomplete or erroneous answers.
+-   Descriptive data.
+-   Analysis of reliability using the alpha coefficient (Cronbach).
+-   Analysis of correlation.
+-   When required, multiple regression.
+-   Interpretation of patterns of importance and impact.
+
+The hypothesis will investigate how engagement, motivation, contentment,
+and perceived learning efficacy are related to AI personalisation.
+
+Any qualitative answers will be examined using thematic analysis.
+Participant responses will first be used to create codes, which will
+subsequently be grouped into broader topics \[24\].
+
+Personalised assistance, ease of use, enhanced comprehension, privacy,
+equity, accessibility, and reliance are possible themes.
+
+Both quantitative and qualitative data will be gathered, examined,
+contrasted, and merged.
 
 
 ## 4.4 Reliability and Validity
 
+The questionnaire will be developed using the topics found in the
+literature. To ensure that research questions are in line with study
+objectives and hypotheses, they will be scrutinised.
 
+The internal consistency and unclear questions will be identified using
+an initial survey or pilot.
+
+Reliability will be assessed using Cronbach's alpha for the relevant
+multi-item constructs. The survey of items that are associated with
+preexisting notions from the literature will promote content validity.
+
+To improve uniformity, systematic coding will be applied to the
+qualitative analysis. The main themes will be identified.
 
 ## 4.5 Anticipated Results
+The goal of the study is to identify links between different facets of
+the student learning process and AI-driven personalisation. Greater
+engagement may be associated with personalised material, whereas greater
+perceived learning efficacy may be associated with adaptive learning
+and/or useful feedback.
 
+These are not conclusions to be made; rather, they are questions to be
+explored in the study.
+
+Concerns like algorithmic fairness, privacy, and uneven access to and
+dependence on AI will also be highlighted in this study. Even though
+students' experiences with AI platforms may be identical, there are a
+few possible reasons why they could find them beneficial in various
+ways.
+
+Therefore, the end product will be a thoughtful assessment of the
+advantages of education and implementation challenges.
 
 
 ------------------------------------------------------------------------
