@@ -191,7 +191,7 @@ association does not imply causality, according to the research.
 
 
 ## 2.1 Design of the Survey
-# Survey Overview
+## Survey Overview
 
 A basic knowledge of students' experiences with online learning and AI related to personalisation will be obtained through the inaugural survey. Additionally, it will help to clarify the final technique, study questions, and assumptions.
 
@@ -218,7 +218,7 @@ Most statements on attitudes will have a **5-point Likert scale**, such as:
 
 
 ## 2.2 Survey Tool
-# Five Primary Constructs Measured via the Questionnaire
+## Five Primary Constructs Measured via the Questionnaire
 
 1. AI customisation
 2. Participation of students
@@ -274,7 +274,7 @@ Adaptive assessment, privacy, fairness and accessibility, reliance, and general 
 
 
 ## 2.3 Administration of Surveys
-# Participant Information and Ethical Considerations
+## Participant Information and Ethical Considerations
 
 Before completing the questionnaire, participants will be informed about the study. The information sheet will include details on:
 
