@@ -11,7 +11,7 @@ Content Delivery
 **Group:** 2 (II)
 
   -----------------------------------------------------------------------
-  Group Member            (Student ID)              and Week 11 Contribution
+  **Group Member            (Student ID)              and Week 11 Contribution**
   ----------------------- ----------------------- -----------------------
   Bikash Shrestha         S20250018 =              Introduction,
                                                   Background, Research Issues, Research Questions, Goals and Research Theories
