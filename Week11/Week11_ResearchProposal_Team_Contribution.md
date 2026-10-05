@@ -192,7 +192,30 @@ association does not imply causality, according to the research.
 **Contributor:** Sushant Shrestha (S20250017)
 
 ## 2.1 Design of the Survey
+# Survey Overview
 
+A basic knowledge of students' experiences with online learning and AI related to personalisation will be obtained through the inaugural survey. Additionally, it will help to clarify the final technique, study questions, and assumptions.
+
+## Target Market
+
+Students with prior experience with online learning platforms and, when available, AI-supported learning tools will make up the target market.
+
+## Survey Details
+
+- It should only take **five to ten minutes** to complete the online survey.
+- This programme will be **optional**.
+
+## Survey Structure
+
+Both **closed-ended** and **open-ended** items will be included in the survey.
+
+Most statements on attitudes will have a **5-point Likert scale**, such as:
+
+1. Strongly Disagree
+2. I disagree.
+3. Neutral
+4. I concur
+5. Strongly Concur
 
 
 ## 2.2 Survey Tool
