@@ -189,7 +189,6 @@ association does not imply causality, according to the research.
 
 # 2. Survey Design
 
-**Contributor:** Sushant Shrestha (S20250017)
 
 ## 2.1 Design of the Survey
 # Survey Overview
@@ -219,11 +218,84 @@ Most statements on attitudes will have a **5-point Likert scale**, such as:
 
 
 ## 2.2 Survey Tool
+# Five Primary Constructs Measured via the Questionnaire
 
+1. AI customisation
+2. Participation of students
+3. Inspiration and contentment
+4. Effectiveness of learning
+5. Concerns about ethics
+
+---
+
+## 1. AI Personalisation
+
+AI personalisation assertions include, for example:
+
+- AI can deliver educational information based on my unique learning requirements.
+- Adaptive learning may modify the learning activities' level of difficulty to suit each student.
+- I may locate helpful educational materials by using personalised suggestions.
+- AI-generated feedback can address my unique learning difficulties.
+- Personalised learning might increase the effectiveness of online education.
+
+---
+
+## 2. Engagement
+
+The ideas of personalised learning will be examined in engagement statements to see if they encourage students to participate, continue learning, and complete assignments.
+
+---
+
+## 3. Learning Effectiveness
+
+The learning effectiveness questions will ask students if they believe adaptive learning helps them learn challenging material, retain it, recognise their shortcomings, and perform better.
+
+---
+
+## 4. Ethical Concerns
+
+Adaptive assessment, privacy, fairness and accessibility, reliance, and general satisfaction will be covered by five more items. The same **5-point Likert scale** will be used to rate each:
+
+- The quantity of personal learning data that AI-supported systems gather about me is acceptable to me.
+- My present level of comprehension is correctly reflected in adaptive quizzes and evaluations.
+- Sometimes I depend on AI-generated responses or comments rather than considering a problem.
+- Students benefit similarly from AI-supported learning systems regardless of their device, internet speed, or background.
+- I would like to keep utilising AI-supported platforms because I am generally happy with my learning experience with them.
+
+---
+
+## Likert Scale (5-Point)
+
+1. Strongly Disagree
+2. I disagree.
+3. Neutral
+4. I concur
+5. Strongly Concur
 
 
 ## 2.3 Administration of Surveys
+# Participant Information and Ethical Considerations
 
+Before completing the questionnaire, participants will be informed about the study. The information sheet will include details on:
+
+- The purpose of the study
+- The participants' voluntary participation in it
+- The confidentiality of their answers
+- Their right to withdraw (if appropriate)
+- etc. [18]
+
+---
+
+## Data Collection and Security
+
+- There won't be any pointless information requested in the survey.
+- We'll gather it using a **secured online survey** and keep it securely.
+
+---
+
+## Purpose of the Initial Survey
+
+The purpose of the initial survey is to identify **trends and issues** rather than the firm's views about every student.
 
 
 ------------------------------------------------------------------------
