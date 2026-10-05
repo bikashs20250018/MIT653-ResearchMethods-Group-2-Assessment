@@ -6,6 +6,8 @@
 for Personalized Education: Adaptive Learning Algorithms and Tailored
 Content Delivery
 
+**Lecturer: Dr. Sudath Heiyanthuduwage**
+
 **Group:** 2 (II)
 
   -----------------------------------------------------------------------
